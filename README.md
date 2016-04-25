@@ -1,8 +1,9 @@
 # fb-bot
-Simple FB bot
+Simple Facebook bot with ability to translate and search
+
 
 ### Available commands
-1. .t - Translate EN -> RU
-2. .т - Translate RU -> EN
-3. .s - Google search
-4. .i - Image search
+* .t - Translate EN -> RU
+* .т - Translate RU -> EN
+* .s - Google search
+* .i - Image search
